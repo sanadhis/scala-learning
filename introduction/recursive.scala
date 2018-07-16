@@ -12,7 +12,7 @@ object Recursive {
         }
     }
 
-    // simple loops is better!
+    // simple loop is better!
 
     def loop(x: Int): Int = {
         (1 to x).map(
