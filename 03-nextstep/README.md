@@ -9,3 +9,4 @@ Some next steps into Scala
 * List is immutable (implemented with linked list), array is the opposite.
 * Cons operator (::) for prepending (works with Integer data type).
 * List: Prepending (::) > Appending (:+). [Reference](https://stackoverflow.com/questions/32839619/scala-append-and-prepend-method-performance). Solution: ListBuffer (later chapter)
+* Method that ends with colon is executed to right operand (mind blowing).
